@@ -2,7 +2,7 @@
 
 ![DemoGif](DemoVid.gif)
 
-A small Unity demo made for RealityZ
+A small Unity demo made for [RealityZ](http://realityz.fr/)
 
 Simple quiz: you have to choose a cube of a corrct color.
 
